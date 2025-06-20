@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KingGodo/yaz.git/static/css/main.ed8a3d8d.css",
+    "main.js": "/KingGodo/yaz.git/static/js/main.9f23811f.js",
+    "static/js/453.e29c4fac.chunk.js": "/KingGodo/yaz.git/static/js/453.e29c4fac.chunk.js",
+    "static/media/king.jpg": "/KingGodo/yaz.git/static/media/king.d6b50e77484dd4826b7a.jpg",
+    "static/media/research.jpg": "/KingGodo/yaz.git/static/media/research.ac9f2401cdd4cc114f86.jpg",
+    "static/media/resources.jpg": "/KingGodo/yaz.git/static/media/resources.f63c4e9434797b2813d5.jpg",
+    "static/media/education.jpg": "/KingGodo/yaz.git/static/media/education.6523e1398cb59aceeea8.jpg",
+    "static/media/about.jpg": "/KingGodo/yaz.git/static/media/about.7243c79ea286031bde96.jpg",
+    "static/media/hero.jpg": "/KingGodo/yaz.git/static/media/hero.68069ab667f6052fecc2.jpg",
+    "static/media/success.jpg": "/KingGodo/yaz.git/static/media/success.28c57d64569b6e5fd80d.jpg",
+    "index.html": "/KingGodo/yaz.git/index.html",
+    "main.ed8a3d8d.css.map": "/KingGodo/yaz.git/static/css/main.ed8a3d8d.css.map",
+    "main.9f23811f.js.map": "/KingGodo/yaz.git/static/js/main.9f23811f.js.map",
+    "453.e29c4fac.chunk.js.map": "/KingGodo/yaz.git/static/js/453.e29c4fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed8a3d8d.css",
+    "static/js/main.9f23811f.js"
+  ]
+}
